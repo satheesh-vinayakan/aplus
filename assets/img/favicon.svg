@@ -1,0 +1,17 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fb-blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1A49AF"/>
+      <stop offset="100%" stop-color="#009EFF"/>
+    </linearGradient>
+    <linearGradient id="fb-gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFDB50"/>
+      <stop offset="100%" stop-color="#F0C941"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="18" fill="#F7F9FC"/>
+  <path d="M46 94L64 32L87 94H76L70 76H58L52 94H46Z" fill="url(#fb-blue)"/>
+  <path d="M62 48L68 70H56L62 48Z" fill="#FFFFFF" fill-opacity="0.96"/>
+  <rect x="65" y="26" width="10" height="52" rx="4" fill="url(#fb-gold)"/>
+  <rect x="43" y="48" width="55" height="10" rx="4" fill="url(#fb-gold)"/>
+</svg>
